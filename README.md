@@ -1,4 +1,4 @@
-# Yugoslav Domain Name Server
+## Yugoslav Domain Name Server
 
 ![yuDNSbadge](https://github.com/user-attachments/assets/d305a6ca-344e-41a1-8142-e4f28a759432)
 
@@ -13,8 +13,8 @@ The .YU domain was officially retired in 2010, leaving a gap in the online prese
 
 Join us as we connect the past and future of online identity, one domain at a time.
 
-## Installing YuDNS on your machines
+### Installing YuDNS on your machines
 Setup on MacOS, Windows, Linux, iOS...
 
-## Registering a .YU domain to YuDNS
+### Registering a .YU domain to YuDNS
 More about registering
