@@ -11,5 +11,8 @@ The .YU domain was officially retired in 2010, leaving a gap in the online prese
 
 Join us as we connect the past and future of online identity, one domain at a time.
 
+## Installing YuDNS on your machines
+Setup on MacOS, Windows, Linux, iOS...
+
 ## Registering a .YU domain to YuDNS
 More about registering
