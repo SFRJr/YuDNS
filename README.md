@@ -3,7 +3,7 @@
 ![yuDNSbadge](https://github.com/user-attachments/assets/d305a6ca-344e-41a1-8142-e4f28a759432)
 
 > [!NOTE]
-> Our DNS IP address is 185.226.0.40 and it should not be used as a primary DNS, but always at the end of the list. Use your ISP DNS, 1.1.1.1 by Cloudflare or other DNS like Google for your primary one. We will blacklist and ban you if you use YuDNS as primary.
+> Our DNS IP address is **185.226.0.40**
 
 YuDNS: Reviving the Legacy of .YU Domains
 
